@@ -84,12 +84,22 @@ const String apiKey = "YOUR_API_KEY";
 You can get an API key from:
 OpenWeatherMap
 
-<img width="211" height="417" alt="image" src="https://github.com/user-attachments/assets/0c8d8944-772b-41d8-a682-050dda87b0c9" />
-<img width="233" height="416" alt="image" src="https://github.com/user-attachments/assets/6112570a-1590-4755-95aa-07f7bab58cfa" />
-<img width="226" height="422" alt="image" src="https://github.com/user-attachments/assets/a83e5a26-69b9-4fce-b7ac-641006b86583" />
-<img width="214" height="418" alt="image" src="https://github.com/user-attachments/assets/14f8ace5-ea03-4bb8-a0b1-f4bfd1662794" />
-<img width="218" height="419" alt="image" src="https://github.com/user-attachments/assets/805c0719-f464-4eed-a489-c6cb4eb774c8" />
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0c8d8944-772b-41d8-a682-050dda87b0c9" width="170"/><br/>
+      <sub>Search City</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6112570a-1590-4755-95aa-07f7bab58cfa" width="170"/><br/>
+      <sub>Weather Result</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a83e5a26-69b9-4fce-b7ac-641006b86583" width="170"/><br/>
+      <sub>Details View</sub>
+    </td>
+  </tr>
+</table>
 
 📌 Usage
 
