@@ -38,24 +38,25 @@ REST API (Weather API)
 Clean Architecture principles
 
 🗂 Project Structure
+<pre>
 lib/
-│
 ├── core/
-│   └── provider.dart        # State management logic
+│   └── provider.dart        <span style="color:gray"># State management</span>
 │
 ├── data/
 │   ├── models/
-│   │   └── weather_model.dart
+│   │   └── weather_model.dart   <span style="color:gray"># Data model</span>
+│   │
 │   └── services/
-│       └── weather_services.dart
+│       └── weather_services.dart <span style="color:gray"># API & Dio</span>
 │
 ├── presentation/
 │   └── screens/
-│       └── search_screen.dart
+│       └── search_screen.dart   <span style="color:gray"># UI screen</span>
 │
-├── root.dart
-└── main.dart
-
+├── root.dart      <span style="color:gray"># App setup</span>
+└── main.dart      <span style="color:gray"># Entry point</span>
+</pre>
 ⚙️ Getting Started
 1️⃣ Prerequisites
 
